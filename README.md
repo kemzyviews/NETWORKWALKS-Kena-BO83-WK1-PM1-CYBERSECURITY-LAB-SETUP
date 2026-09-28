@@ -1,7 +1,7 @@
 🔐 Cybersecurity Lab Environment Setup
 Building an isolated virtual lab for penetration testing and ethical hacking practice
 
-![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red) ![Ver](https://img.shields.io/badge/Ver-Virtualbox%20v7.2-blue) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-v2026.2-red) ![Skill](https://img.shields.io/badge/Skill-Linux-red) ![Network](https://img.shields.io/badge/Network-10.0.0.0%2F24-teal) ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-red) ![Skill](https://img.shields.io/badge/Skill-Virtualization-red) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-red?logo=kalilinux) ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-red) ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-orange) ![Author](https://img.shields.io/badge/Aboderin%20Semilore%20Gold-red)
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red) ![Ver](https://img.shields.io/badge/Ver-Virtualbox%20v7.2-blue) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-v2026.2-red) ![Skill](https://img.shields.io/badge/Skill-Linux-red) ![Network](https://img.shields.io/badge/Network-10.0.0.0%2F24-teal) ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-red) ![Skill](https://img.shields.io/badge/Skill-Virtualization-red) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-red?logo=kalilinux) ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-red) ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-orange) ![Author](https://img.shields.io/badge/Kena%20 Okhunkhun-red)
 
 ---
 
